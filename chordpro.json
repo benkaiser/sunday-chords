@@ -1,5 +1,12 @@
 {
   "instrument" : {
     "type": "keyboard"
+  },
+  "pdf": {
+    "kbdiagrams" : {
+      "width": 5,
+      "height": 25,
+      "pressed": "#ff0000"
+    }
   }
 }
